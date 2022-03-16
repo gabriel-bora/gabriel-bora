@@ -6,7 +6,7 @@
 - 🏊🏽‍♂️ Hobbies: <b>futebol</b>, natação e tecnologia;
 - 👨🏽‍🎓 Formação: Graduação em Administração <a href="https://www.ufpr.br/portalufpr/" target="_blank" rel="noopener noreferrer">UFPR</a> / Participante da 7ª Edição do Programa Starter Full Stack Web Devoloper na <a href="https://www.growdev.com.br/" target="_blank" rel="noopener noreferrer">Growdev</a>
 - 👔 Experiências profissionais: Conhecimento na área financeira pelo HSBC e pela Empresa de Consultoria RCA Governança e Sucessão; Empreendedor e especialista em Marketing pela Braun MKT / Flow Agência Criativa
-- 🤔 Linguagens e ferramentas: HTML, CSS, Javascript, Photoshop, Illustrator
+- 🤔 Linguagens e ferramentas preferidas: HTML, CSS, Javascript, Photoshop, Illustrator
 - 📚 O que está estudando atualmente: Desenvolvimento de Aplicações Web
 - 📫 Fala comigo:
 <p align="left">
